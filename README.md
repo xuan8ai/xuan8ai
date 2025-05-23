@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuan8ai)
+
+
 <!--
 **xuan8ai/xuan8ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
