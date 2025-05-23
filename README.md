@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuan8ai)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuan8ai)
 
 
 <!--
